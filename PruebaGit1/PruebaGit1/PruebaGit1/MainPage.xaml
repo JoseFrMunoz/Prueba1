@@ -4,7 +4,7 @@
              x:Class="PruebaGit1.MainPage">
 
     <StackLayout>
-        <Label Text="buenas tardes">
+        <Label Text="a ver si ahora puedo recuperar el archivo">
         </Label>
     </StackLayout>
 
