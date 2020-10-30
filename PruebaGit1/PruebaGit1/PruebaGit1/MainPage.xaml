@@ -4,7 +4,7 @@
              x:Class="PruebaGit1.MainPage">
 
     <StackLayout>
-        <Label Text="hola que tal estas">
+        <Label Text="buenas tardes">
         </Label>
     </StackLayout>
 
